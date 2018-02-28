@@ -32,14 +32,15 @@ V1.1 uploaded to AFH
 
 ### Compatibility
 - Xiaomi Mi A1
+
 Feel free to report on other devices
 
 It should work on other devices as long as they are close to stock (Stock/Custom).
 
 ### Thanks
 Thanks to these people!
-@Chronzy
-@topjohnwu
+- @Chronzy
+- @topjohnwu
 
 ### XDA Official thread:
 [https://forum.xda-developers.com/mi-a1/themes/magisk-module-pixel-2-mod-xiaomi-mi-a1-t3750781](https://forum.xda-developers.com/mi-a1/themes/magisk-module-pixel-2-mod-xiaomi-mi-a1-t3750781)
