@@ -28,7 +28,7 @@ For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/m
 
 ### News
 News (2/28/2018)
-V1.1 uploaded to AFH
+- v1.1 uploaded to AFH: https://www.androidfilehost.com/?fid=673956719939822573
 
 ### Compatibility
 - Xiaomi Mi A1
