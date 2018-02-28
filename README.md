@@ -24,25 +24,24 @@ v1.0:
 - removed android.auto_generated_rro__ app from system/vendor/overlay to avoid bootloop after removing the module.
 - removed SysUiDarkTheme in system/vendor/overlay as it may conflict with preinstalled versions (for 8.1+)
 
-For old changelogs, check on [XDA link](https://forum.xda-developers.com/mi-a1/themes/magisk-module-pixel-2-mod-xiaomi-mi-a1-t3750781)
+For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/mi-a1/themes/magisk-module-pixel-2-mod-xiaomi-mi-a1-t3750781)
 
 ### News
 News (2/28/2018)
 V1.1 uploaded to AFH
 
 ### Compatibility
-
 - Xiaomi Mi A1
 Feel free to report on other devices
 
-It should works on others phones. It should also work on stock and custom ROMs as long as they have AOSP base.
+It should work on other devices as long as they are close to stock (Stock/Custom).
 
 ### Thanks
 Thanks to these people!
 @Chronzy
 @topjohnwu
 
-### XDA officials downloads thread:
+### XDA Official thread:
 [https://forum.xda-developers.com/mi-a1/themes/magisk-module-pixel-2-mod-xiaomi-mi-a1-t3750781](https://forum.xda-developers.com/mi-a1/themes/magisk-module-pixel-2-mod-xiaomi-mi-a1-t3750781)
 
 Provide comments via the XDA thread by inputting your phone model, current ROM.
