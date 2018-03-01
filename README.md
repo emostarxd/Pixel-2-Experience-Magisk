@@ -25,10 +25,8 @@ Features I can add in but don't think will work in all Oreo devices:
 - Automatic dark SystemUI theme depending on wallpaper (can only work in 8.1+, could possibly a different version of the module)
 
 ### Latest changelog
-v1.2:
-- added modded Pixel 2 Launcher by @paphonb
-- added Google Wallpapers app
-- added Pixel Launcher icons app
+v1.3:
+- set default ringtones via build.prop
 
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
@@ -37,8 +35,8 @@ For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/a
 
 Feel free to report if it works on other devices as well. It should work on other devices as long as they are close to stock (Stock/Custom ROMs).
 
-### Credits
-Thanks to these people for their contribution and help in the Android world!
+### Thanks
+Thanks to these people!
 - @Chronzy for providing the system/vendor/overlay files as well as system/media files from his Pixel 2. [XDA thread](https://forum.xda-developers.com/showpost.php?p=74267243&postcount=14) 
 - @paphonb for his Rootless Pixel 2 Launcher [XDA thread](https://forum.xda-developers.com/android/apps-games/app-rootless-pixel-2-launcher-google-t3688393/)
 - @topjohnwu

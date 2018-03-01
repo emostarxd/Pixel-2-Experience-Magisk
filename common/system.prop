@@ -1,5 +1,8 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
+ro.config.ringtone=The_big_adventure.ogg
+ro.config.notification=Popcorn.ogg
+ro.config.alarm_alert=Bright_morning.ogg
 ro.opa.eligible_device=true
 persist.camera.HAL3.enabled=1
