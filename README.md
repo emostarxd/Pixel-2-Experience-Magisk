@@ -27,7 +27,7 @@ Features I can add in but don't think will work in all Oreo devices:
 v1.1:
 - added Camera2 API Support
 
-For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/mi-a1/themes/magisk-module-pixel-2-mod-xiaomi-mi-a1-t3750781)
+For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
 ### News
 News (2/28/2018)
@@ -46,7 +46,7 @@ Thanks to these people!
 - @topjohnwu
 
 ### XDA Official thread:
-[MAGISK Subforum](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
+[Magisk Subforum](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
 Provide comments via the XDA thread by inputting your phone model, current ROM.
 
