@@ -37,8 +37,8 @@ For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/a
 
 Feel free to report if it works on other devices as well. It should work on other devices as long as they are close to stock (Stock/Custom ROMs).
 
-### Thanks
-Thanks to these people!
+### Credits
+Thanks to these people for their contribution and help in the Android world!
 - @Chronzy for providing the system/vendor/overlay files as well as system/media files from his Pixel 2. [XDA thread](https://forum.xda-developers.com/showpost.php?p=74267243&postcount=14) 
 - @paphonb for his Rootless Pixel 2 Launcher [XDA thread](https://forum.xda-developers.com/android/apps-games/app-rootless-pixel-2-launcher-google-t3688393/)
 - @topjohnwu
