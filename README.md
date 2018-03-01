@@ -23,14 +23,9 @@ Features I can add in but don't think will work in all Oreo devices:
 
 - Automatic dark SystemUI theme depending on wallpaper (can only work in 8.1+, could possibly a different version of the module)
 
-### Changelog
+### Latest changelog
 v1.1:
 - added Camera2 API Support
-
-v1.0:
-- renamed module from Pixel 2 Mod to Pixel 2 Experience
-- removed android.auto_generated_rro__ app from system/vendor/overlay to avoid bootloop after removing the module.
-- removed SysUiDarkTheme in system/vendor/overlay as it may conflict with preinstalled versions (for 8.1+)
 
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/mi-a1/themes/magisk-module-pixel-2-mod-xiaomi-mi-a1-t3750781)
 
