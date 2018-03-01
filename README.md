@@ -51,4 +51,4 @@ Thanks to these people!
 Provide comments via the XDA thread by inputting your phone model, current ROM.
 
 ### Github source: <br />
-[https://github.com/joeyhuab/pixel-2-experience](https://github.com/joeyhuab/pixel-2-experience)
+[https://github.com/joeyhuab/Pixel-2-Experience-Magisk/](https://github.com/joeyhuab/Pixel-2-Experience-Magisk/)
