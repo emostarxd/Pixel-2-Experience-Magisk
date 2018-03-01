@@ -1,7 +1,7 @@
 id=pixel2exp
 name=Pixel 2 Experience
-version=v1.1
+version=v1.2
 versionCode=1
 author=Stallixx (joeyhuab @ xda)
-description=Ports Pixel 2 features, enables Google Lens, adds Pixel 2 audio files, installs Google Sans font family, includes Pixel system accent color, enables Google Assistant, enables Camera 2 API
+description=Ports Pixel 2 features; includes @paphonb's modded Pixel 2 Launcher, Google Wallpapers app, Pixel Launcher icons, enables Google Lens, adds Pixel 2 audio files, installs Google Sans font family, includes Pixel system accent color, enables Google Assistant, enables Camera 2 API
 minMagisk=1500
