@@ -36,25 +36,24 @@ For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/m
 
 ### News
 News (2/28/2018)
-- v1.1 uploaded to AFH: https://www.androidfilehost.com/?fid=673956719939822573
+- v1.1 uploaded to [AFH](https://www.androidfilehost.com/?fid=673956719939822573)
 
 ### Compatibility
 - Xiaomi Mi A1
 
 Feel free to report on other devices
 
-It should work on other devices as long as they are close to stock (Stock/Custom).
+It should work on other devices as long as they are close to stock (Stock/Custom ROMs).
 
 ### Thanks
 Thanks to these people!
-- @Chronzy for providing the system/vendor/overlay files as well as system/media files from his Pixel 2. [XDA source](https://forum.xda-developers.com/showpost.php?p=74267243&postcount=14) 
+- @Chronzy for providing the system/vendor/overlay files as well as system/media files from his Pixel 2. [XDA thread](https://forum.xda-developers.com/showpost.php?p=74267243&postcount=14) 
 - @topjohnwu
 
 ### XDA Official thread:
-[https://forum.xda-developers.com/mi-a1/themes/magisk-module-pixel-2-mod-xiaomi-mi-a1-t3750781](https://forum.xda-developers.com/mi-a1/themes/magisk-module-pixel-2-mod-xiaomi-mi-a1-t3750781)
+[MAGISK Subforum](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
 Provide comments via the XDA thread by inputting your phone model, current ROM.
-
 
 ### Github source: <br />
 [https://github.com/joeyhuab/pixel-2-experience](https://github.com/joeyhuab/pixel-2-experience)
