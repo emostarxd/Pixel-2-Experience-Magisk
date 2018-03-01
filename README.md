@@ -27,6 +27,8 @@ Features I can add in but don't think will work in all Oreo devices:
 ### Latest changelog
 v1.2:
 - added modded Pixel 2 Launcher by @paphonb
+- added Google Wallpapers app
+- added Pixel Launcher icons app
 
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
