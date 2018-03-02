@@ -34,9 +34,15 @@ v1.4b:
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
 ### Compatibility
-- Xiaomi Mi A1
-
-Feel free to report if it works on other devices as well. It should work on other devices as long as they are close to stock (Stock/Custom ROMs).
+- Xiaomi Mi A1 on 8.0.0 Oreo Stock ROM (tissot)
+- Wileyfox Swift on 8.1.0 crDroid (crackling)
+- Cherry Mobile G1 on 8.1.0 LOS 15.1 (seed)
+- Samsung Galaxy S8 Exynos - weather app crashes but no other issues found
+- Nexus 5
+- OnePlus 5T on OOS Beta3
+- OnePlus 3T
+- Essential PH-1
+Provide feedback via the XDA thread by inputting your phone model, current ROM. Feel free to report if it works on other devices as well. It should work on other devices as long as they are close to stock (Stock/Custom ROMs).
 
 ### Thanks
 Thanks to these people!
@@ -51,8 +57,6 @@ Thanks to these people!
 [Magisk Subforum](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
 ### (XDA Portal feature](https://www.xda-developers.com/pixel-2-experience-magisk-module/)
-
-Provide comments via the XDA thread by inputting your phone model, current ROM.
 
 ### Github source: <br />
 [https://github.com/joeyhuab/Pixel-2-Experience-Magisk/](https://github.com/joeyhuab/Pixel-2-Experience-Magisk/)
