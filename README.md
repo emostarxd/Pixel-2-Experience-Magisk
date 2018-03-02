@@ -29,7 +29,9 @@ v1.4a:
 - include Night Light enabler
 
 v1.4b:
-- replace @paphonb's launcher with @azaidi's version
+- include Pixel 2 lockscreen font overlay
+- include Night Light enabler
+- replace paphonb's launcher with azaidi's version
 
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
@@ -56,7 +58,7 @@ Thanks to these people!
 ### XDA Official thread:
 [Magisk Subforum](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
-### (XDA Portal feature](https://www.xda-developers.com/pixel-2-experience-magisk-module/)
+### [XDA Portal feature](https://www.xda-developers.com/pixel-2-experience-magisk-module/)
 
 ### Github source: <br />
 [https://github.com/joeyhuab/Pixel-2-Experience-Magisk/](https://github.com/joeyhuab/Pixel-2-Experience-Magisk/)
