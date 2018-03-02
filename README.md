@@ -6,27 +6,30 @@ Searching around the internet, I've seen several mods on XDA, GitHub and other w
 
 ### Features
 - Modded Pixel 2 Launcher by @paphonb [XDA thread](https://forum.xda-developers.com/android/apps-games/app-rootless-pixel-2-launcher-google-t3688393/)
+- Modded Rootless Pixel Launcher based on AOSP 8.1 Launcher3 by @azaidi [XDA thread](https://forum.xda-developers.com/android/apps-games/launcher3-pixel-launcher-features-t3620972)
 - Pixel Launcher icons
 - Google Wallpapers app
 - Adds Pixel-exclusive wallpapers via Google Wallpapers app
-- Pixel system accent theme (in system/vendor/overlay/Pixel)
+- Pixel accent (in system/vendor/overlay/Pixel)
 - Google Lens enabled in Google Photos
-- Google Sans font family used in Google Assistant, Pixel Launcher, System Update window, SetupWizard text
-- Pixel 2 audios (ringtones, notifications, ui, alarms)
+- Google Sans font used in Google Assistant, Pixel Launcher, System Update window, SetupWizard text, lockscreen clock
+- Pixel 2 audio (ringtones, notifications, ui, alarms)
 - Enable Google Assistant via build.prop
-- Camera 2 API Support added (v1.1)
+- Camera2 API support
+- Enables Night Light support
 
-The following are still being considered to be added in:
+Features I can add in but don't think will work in all Oreo devices
 
-- Pixel 2 Bootanimation
-
-Features I can add in but don't think will work in all Oreo devices:
-
+- Pixel Navigation Bar style (might not work with most 8.0 devices due to changes in the SystemUI.apk)
 - Automatic dark SystemUI theme depending on wallpaper (can only work in 8.1+, could possibly a different version of the module)
 
 ### Latest changelog
-v1.3:
-- set default ringtones via build.prop
+v1.4a:
+- include Pixel 2 lockscreen font overlay
+- include Night Light enabler
+
+v1.4b:
+- replace @paphonb's launcher with @azaidi's version
 
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
@@ -38,11 +41,15 @@ Feel free to report if it works on other devices as well. It should work on othe
 ### Thanks
 Thanks to these people!
 - @Chronzy for providing the system/vendor/overlay files as well as system/media files from his Pixel 2. [XDA thread](https://forum.xda-developers.com/showpost.php?p=74267243&postcount=14) 
+- @elmkzgirxp for providing an overlay for the lockscreen font
 - @paphonb for his Rootless Pixel 2 Launcher [XDA thread](https://forum.xda-developers.com/android/apps-games/app-rootless-pixel-2-launcher-google-t3688393/)
+- @azaidi for his Rootless Pixel Launcher 3.2 [XDA thread](https://forum.xda-developers.com/android/apps-games/launcher3-pixel-launcher-features-t3620972)
 - @topjohnwu
 
 ### XDA Official thread:
 [Magisk Subforum](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
+
+### (XDA Portal feature](https://www.xda-developers.com/pixel-2-experience-magisk-module/)
 
 Provide comments via the XDA thread by inputting your phone model, current ROM.
 
