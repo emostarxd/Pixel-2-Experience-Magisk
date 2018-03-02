@@ -44,6 +44,7 @@ Thanks to these people!
 - @elmkzgirxp for providing an overlay for the lockscreen font
 - @paphonb for his Rootless Pixel 2 Launcher [XDA thread](https://forum.xda-developers.com/android/apps-games/app-rootless-pixel-2-launcher-google-t3688393/)
 - @azaidi for his Rootless Pixel Launcher 3.2 [XDA thread](https://forum.xda-developers.com/android/apps-games/launcher3-pixel-launcher-features-t3620972)
+- @Soheil_rf for his Night Light enabler overlay [XDA thread](https://forum.xda-developers.com/crossdevice-dev/sony-themes-apps/oreo-enable-night-light-tile-t3713021)
 - @topjohnwu
 
 ### XDA Official thread:
