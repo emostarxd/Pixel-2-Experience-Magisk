@@ -28,11 +28,6 @@ v1.4a:
 - include Pixel 2 lockscreen font overlay
 - include Night Light enabler
 
-v1.4b:
-- include Pixel 2 lockscreen font overlay
-- include Night Light enabler
-- replace paphonb's launcher with azaidi's version
-
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
 ### Compatibility
