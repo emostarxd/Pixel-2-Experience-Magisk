@@ -1,7 +1,8 @@
 id=pixel2exp
 name=Pixel 2 Experience
-version=v1.4a
-versionCode=4
+version=v1.5
+versionCode=5
 author=Stallixx (joeyhuab @ xda)
-description=Ports Pixel 2 features; includes @azaidi's Rootless Pixel Launcher 3.2, icons, audio, overlay, Google Wallpapers, enables Google Lens on Photos, Google Sans font with lockscreen overlay by @elmkzgirxp, enables Google Assistant, Camera 2 API
+description=Ports Pixel 2 features; includes Pixel Launcher, icons, audio, Pixel theme accent, Google Wallpapers, enables Google Assistant, Google Lens on Photos app, Camera2 API, Google Sans font
+support=https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137
 minMagisk=1500

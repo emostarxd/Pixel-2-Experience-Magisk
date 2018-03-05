@@ -25,7 +25,7 @@
 AUTOMOUNT=true
 
 # Set to true if you need to load system.prop
-PROPFILE=false
+PROPFILE=true
 
 # Set to true if you need post-fs-data script
 POSTFSDATA=false
@@ -40,9 +40,9 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "******************************************"
-  ui_print "Pixel 2 Experience v1.4a by joeyhuab @ xda"
-  ui_print "******************************************"
+  ui_print "*****************************************"
+  ui_print "Pixel 2 Experience v1.5 by joeyhuab @ xda"
+  ui_print "*****************************************"
 }
 
 ##########################################################################################
@@ -63,6 +63,7 @@ REPLACE="
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
+/system/priv-app/NexusLauncherPrebuilt
 "
 
 ##########################################################################################

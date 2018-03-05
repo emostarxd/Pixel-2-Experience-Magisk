@@ -1,8 +1,10 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
-ro.config.ringtone=The_big_adventure.ogg
-ro.config.notification=Popcorn.ogg
-ro.config.alarm_alert=Bright_morning.ogg
-ro.opa.eligible_device=true
 persist.camera.HAL3.enabled=1
+ro.opa.eligible_device=true
+ro.config.ringtone=The_big_adventure.ogg
+ro.config.notification_sound=Popcorn.ogg
+ro.config.alarm_alert=Bright_morning.ogg
+ro.com.google.ime.theme_id=5
+ro.boot.vendor.overlay.theme=com.google.android.theme.pixel
