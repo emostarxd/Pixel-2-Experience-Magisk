@@ -1,5 +1,5 @@
 ### Pixel 2 Experience
-I made a compilation of the different mods and came up with this Pixel 2 Experience module which can be flashed with other devices on Oreo.
+I made a compilation of the different mods and came up with this Pixel 2 Experience module which can be flashed with other devices on Nougat.
 
 ### Information
 Searching around the internet, I've seen several mods on XDA, GitHub and other websites which have extracted files from the Pixel 2 devices. I've decided to gather them and compiled them all into a single Magisk Module. This module can be flashed with other devices on Oreo as well.
