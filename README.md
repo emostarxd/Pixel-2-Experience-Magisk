@@ -32,14 +32,20 @@ For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/a
 ### Compatibility
 - Xiaomi Mi A1 on 8.0.0 Oreo Stock ROM (tissot)
 - Samsung Galaxy S8 Exynos - weather app crashes but no other issues found
+- Samsung Galaxy A5 (2017) LOS 15.1
 - OnePlus 5T on OOS Beta 3
+- OnePlus 5T on OOS 5.0.4
 - OnePlus 5 on OOS Beta 5
 - OnePlus 5 on 8.1.0 Omni ROM
 - OnePlus 3T
-- Sony Xperia Z2 on 8.1.0 Resurrection Remix Oreo
+- Xperia Z2 on 8.1.0 Resurrection Remix Oreo
+- Xperia XZ, SlimBit AOSP 8.1
 - Essential PH-1
 - Nexus 5x on 8.1.0
 - Nexus 5
+- Zuk Z2 Pro on Aex 5.2 Oreo
+- Xiaomi Redmi Note 4X (Mido) with MIUI 9.2.1 Global Stable
+- Xiaomi Mi 5X MIUI 9.2.2.0 Android 7.1
 - Xiaomi Mi5 Prime on 8.1.0 Omni ROM Oreo
 - Wileyfox Swift on 8.1.0 crDroid (crackling)
 - Cherry Mobile G1 on 8.1.0 LOS 15.1 (seed)
@@ -58,6 +64,6 @@ Thanks to these people!
 ### [XDA Official thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
 LICENSE
-Copyright © 2017 joeyhuab. Licensed under the GNU General Public License v3.
+Copyright © 2018 joeyhuab. Licensed under the GNU General Public License v3.
 
 ### [Github source](https://github.com/joeyhuab/Pixel-2-Experience-Magisk/)
