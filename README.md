@@ -30,25 +30,25 @@ v1.5:
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
 ### Compatibility
-- Xiaomi Mi A1 on 8.0.0 Oreo Stock ROM (tissot)
-- Samsung Galaxy S8 Exynos - weather app crashes but no other issues found
-- Samsung Galaxy A5 (2017) LOS 15.1
+- Cherry Mobile G1 on 8.1.0 LOS 15.1 (seed)
+- Essential PH-1
+- Nexus 5x on 8.1.0
+- Nexus 5
 - OnePlus 5T on OOS Beta 3
 - OnePlus 5T on OOS 5.0.4
 - OnePlus 5 on OOS Beta 5
 - OnePlus 5 on 8.1.0 Omni ROM
 - OnePlus 3T
-- Xperia Z2 on 8.1.0 Resurrection Remix Oreo
-- Xperia XZ, SlimBit AOSP 8.1
-- Essential PH-1
-- Nexus 5x on 8.1.0
-- Nexus 5
-- Zuk Z2 Pro on Aex 5.2 Oreo
+- Samsung Galaxy A5 (2017) LOS 15.1
+- Samsung Galaxy S8 Exynos - weather app crashes but no other issues found
+- Sony Xperia XZ, SlimBit AOSP 8.1
+- Sony Xperia Z2 on 8.1.0 Resurrection Remix Oreo
+- Wileyfox Swift on 8.1.0 crDroid (crackling)
 - Xiaomi Redmi Note 4X (Mido) with MIUI 9.2.1 Global Stable
+- Xiaomi Mi A1 on 8.0.0 Oreo Stock ROM (tissot)
 - Xiaomi Mi 5X MIUI 9.2.2.0 Android 7.1
 - Xiaomi Mi5 Prime on 8.1.0 Omni ROM Oreo
-- Wileyfox Swift on 8.1.0 crDroid (crackling)
-- Cherry Mobile G1 on 8.1.0 LOS 15.1 (seed)
+- Zuk Z2 Pro on Aex 5.2 Oreo
 
 Provide feedback via the XDA thread by inputting your phone model, current ROM. Feel free to report if it works on other devices as well. It should work on other devices as long as they are close to stock (Stock/Custom ROMs).
 
