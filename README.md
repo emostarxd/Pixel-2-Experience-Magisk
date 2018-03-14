@@ -14,7 +14,7 @@ Searching around the internet, I've seen several mods on XDA, GitHub and other w
 - Google Sans font used in Google Assistant, Pixel Launcher, System Update window, SetupWizard text, lockscreen clock
 - Pixel 2 audio (ringtones, notifications, ui, alarms)
 - Enable Google Assistant via build.prop
-- Camera2 API support (find a working Modded Google Camera app [here](https://www.celsoazevedo.com/files/android/google-camera/)
+- Camera2 API support (find a working Modded Google Camera app [here](https://www.celsoazevedo.com/files/android/google-camera/))
 - Enables Night Light support
 
 Features I can add in but don't think will work in all Oreo devices
