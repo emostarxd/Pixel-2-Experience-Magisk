@@ -22,10 +22,12 @@ Features I can add in but don't think will work in all Oreo devices
 - Pixel Navigation Bar style (might not work with most 8.0 devices due to differences between the SystemUI.apk)
 
 ### Latest changelog
-v1.5:
-- replaced launcher choices with new Ruthless Pixel Launcher by @shuby | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-ruthless-pixel-launcher-based-t3755903/)
-- set Pixel theme for Gboard
-- set Pixel theme as default theme accent
+v1.6:
+- updated Ruthless Pixel Launcher by @shuby | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-ruthless-pixel-launcher-based-t3755903/post75963846)
+- include framework-res__auto_generated_rro to allow for changes in Settings app
+- enable several options in Settings app and enable Google Sans font
+- removed Google Launcher icons
+- removed Google Wallpapers app optional
 
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
