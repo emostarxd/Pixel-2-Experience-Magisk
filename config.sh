@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*****************************************"
-  ui_print "Pixel 2 Experience v1.5 by joeyhuab @ xda"
+  ui_print "Pixel 2 Experience v1.6 by joeyhuab @ xda"
   ui_print "*****************************************"
 }
 
