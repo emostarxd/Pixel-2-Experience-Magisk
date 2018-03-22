@@ -1,7 +1,7 @@
 id=pixel2exp
 name=Pixel 2 Experience
-version=v1.8
-versionCode=8
+version=v1.9
+versionCode=9
 author=Joey Huab
 description=Ports Pixel 2 exclusive features; includes Ruthless Pixel Launcher, Pixel theme accent, Pixel audio files; enables Google Sans font in Settings app, Google Assistant, Google Lens on Photos app, Camera2 API support (varies per device)
 minMagisk=1500
