@@ -7,7 +7,6 @@ Searching around the internet, I've seen several mods on XDA, GitHub and other w
 ### Features
 - Ruthless Pixel Launcher by @shuby (with icon pack support among other lovely features) | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-ruthless-pixel-launcher-based-t3755903/)
 
-
 - Pixel accent (in system/vendor/overlay/Pixel)
 - Google Lens enabled in Google Photos
 - Google Sans font used in Google Assistant, Pixel Launcher, System Update window, SetupWizard text, lockscreen clock
@@ -16,14 +15,9 @@ Searching around the internet, I've seen several mods on XDA, GitHub and other w
 - Camera2 API support (find a working Modded Google Camera app [here](https://www.celsoazevedo.com/files/android/google-camera/))
 - Enables Night Light support
 
-
-
-
-
 ### Latest changelog
-v1.9
- updated Ruthless Launcher to NoU version.
-
+v2.0
+ updated Ruthless Launcher to Rpl_27-03-18 version.
 
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
