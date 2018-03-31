@@ -16,8 +16,13 @@ Searching around the internet, I've seen several mods on XDA, GitHub and other w
 - Enables Night Light support
 
 ### Latest changelog
-v2.0
- updated Ruthless Launcher to Rpl_27-03-18 version.
+v2.1
+updated Ruthless Launcher to Rpl_31-03-18 version.
+- Fixed drawer searchbar bug 
+- Merged Amir's 3.4
+- Lollipop users 'might' again can apply icon packs
+- Samsug S8/Note8 users send log if u can't
+- Grant storage permissions or else FC
 
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
