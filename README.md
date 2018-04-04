@@ -16,9 +16,8 @@ Searching around the internet, I've seen several mods on XDA, GitHub and other w
 - Enables Night Light support
 
 ### Latest changelog
-v2.2
-- replaced Ruthless Launcher to paphonb's Modded Pixel 2 Launcher
-- add EIS support
+v2.3
+- revert to Ruthless Launcher while creating a unity installer
 
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
