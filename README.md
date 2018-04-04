@@ -5,7 +5,7 @@ I made a compilation of the different mods and came up with this Pixel 2 Experie
 Searching around the internet, I've seen several mods on XDA, GitHub and other websites which have extracted files from the Pixel 2 devices. I've decided to gather them and compiled them all into a single Magisk Module. This module can be flashed with other devices on Oreo as well.
 
 ### Features
-- Modded Pixel 2 Launcher by @paphonb from v2.2 onwards | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-rootless-pixel-2-launcher-google-t3688393)
+- Modded Pixel 2 Launcher by @paphonb in v2.2| [XDA thread](https://forum.xda-developers.com/android/apps-games/app-rootless-pixel-2-launcher-google-t3688393)
 - Ruthless Pixel Launcher by @shuby from v1.5 to v2.1 (with icon pack support among other lovely features) | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-ruthless-pixel-launcher-based-t3755903/)
 - Pixel accent (in system/vendor/overlay/Pixel)
 - Google Lens enabled in Google Photos
