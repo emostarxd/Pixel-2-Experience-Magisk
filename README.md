@@ -5,8 +5,8 @@ I made a compilation of the different mods and came up with this Pixel 2 Experie
 Searching around the internet, I've seen several mods on XDA, GitHub and other websites which have extracted files from the Pixel 2 devices. I've decided to gather them and compiled them all into a single Magisk Module. This module can be flashed with other devices on Oreo as well.
 
 ### Features
-- Ruthless Pixel Launcher by @shuby (with icon pack support among other lovely features) | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-ruthless-pixel-launcher-based-t3755903/)
-
+- Modded Pixel 2 Launcher by @paphonb from v2.2 onwards | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-rootless-pixel-2-launcher-google-t3688393
+- Ruthless Pixel Launcher by @shuby from v1.5 to v2.1 (with icon pack support among other lovely features) | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-ruthless-pixel-launcher-based-t3755903/)
 - Pixel accent (in system/vendor/overlay/Pixel)
 - Google Lens enabled in Google Photos
 - Google Sans font used in Google Assistant, Pixel Launcher, System Update window, SetupWizard text, lockscreen clock
@@ -16,13 +16,9 @@ Searching around the internet, I've seen several mods on XDA, GitHub and other w
 - Enables Night Light support
 
 ### Latest changelog
-v2.1
-updated Ruthless Launcher to Rpl_31-03-18 version.
-- Fixed drawer searchbar bug 
-- Merged Amir's 3.4
-- Lollipop users 'might' again can apply icon packs
-- Samsug S8/Note8 users send log if u can't
-- Grant storage permissions or else FC
+v2.2
+- replaced Ruthless Launcher to paphonb's Modded Pixel 2 Launcher
+- add EIS support
 
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
