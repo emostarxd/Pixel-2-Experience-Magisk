@@ -5,19 +5,20 @@ I made a compilation of the different mods and came up with this Pixel 2 Experie
 Searching around the internet, I've seen several mods on XDA, GitHub and other websites which have extracted files from the Pixel 2 devices. I've decided to gather them and compiled them all into a single Magisk Module. This module can be flashed with other devices on Oreo as well.
 
 ### Features
-- Modded Pixel 2 Launcher by @paphonb in v2.2| [XDA thread](https://forum.xda-developers.com/android/apps-games/app-rootless-pixel-2-launcher-google-t3688393)
-- Ruthless Pixel Launcher by @shuby from v1.5 to v2.1 (with icon pack support among other lovely features) | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-ruthless-pixel-launcher-based-t3755903/)
+- Modded Pixel 2 Launcher by @paphonb | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-rootless-pixel-2-launcher-google-t3688393)
+- Ruthless Pixel Launcher by @shuby (with icon pack support among other lovely features) | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-ruthless-pixel-launcher-based-t3755903/)
 - Pixel accent (in system/vendor/overlay/Pixel)
 - Google Lens enabled in Google Photos
 - Google Sans font used in Google Assistant, Pixel Launcher, System Update window, SetupWizard text, lockscreen clock
 - Pixel 2 audio (ringtones, notifications, ui, alarms)
 - Enable Google Assistant via build.prop
 - Camera2 API support (find a working Modded Google Camera app [here](https://www.celsoazevedo.com/files/android/google-camera/))
+- EIS support
 - Enables Night Light support
 
 ### Latest changelog
-v2.3
-- revert to Ruthless Launcher while creating a unity installer
+v3.0
+- use Unity Installer functionality to allow users to choose between launchers
 
 For old changelogs, check on the [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 
@@ -56,16 +57,18 @@ Provide feedback via the XDA thread by inputting your phone model, current ROM. 
 
 ### Thanks
 Thanks to these people!
-- @shuby for their Ruthless Pixel Launcher | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-ruthless-pixel-launcher-based-t3755903/)
+- @Zackptg5 for helping out with the Unity Installer | [XDA guide](https://forum.xda-developers.com/android/software/guide-volume-key-selection-flashable-zip-t3773410)
+- @Rom for helping out the install.sh codes | [XDA profile](https://forum.xda-developers.com/member.php?u=5332893)
+- @shubbyy for his Ruthless Pixel Launcher | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-ruthless-pixel-launcher-based-t3755903/)
+- @paphonb for his Modded Pixel 2 Launcher | [XDA thread](https://forum.xda-developers.com/android/apps-games/app-rootless-pixel-2-launcher-google-t3688393)
 - @Chronzy for providing the system/vendor/overlay files as well as system/media files from his Pixel 2. | [XDA thread](https://forum.xda-developers.com/showpost.php?p=74267243&postcount=14) 
 - @elmkzgirxp for providing an overlay for the lockscreen font
 - @Soheil_rf for his Night Light enabler overlay | [XDA thread](https://forum.xda-developers.com/crossdevice-dev/sony-themes-apps/oreo-enable-night-light-tile-t3713021)
 - @topjohnwu for Magisk
 
-### [XDA Portal feature](https://www.xda-developers.com/pixel-2-experience-magisk-module/)
-### [XDA Official thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
-
 LICENSE
 Copyright © 2018 joeyhuab. Licensed under the GNU General Public License v3.
 
+### [XDA Portal feature](https://www.xda-developers.com/pixel-2-experience-magisk-module/)
+### [XDA Official thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
 ### [Github source](https://github.com/joeyhuab/Pixel-2-Experience-Magisk/)

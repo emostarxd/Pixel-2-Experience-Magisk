@@ -1,7 +1,9 @@
 id=pixel2exp
 name=Pixel 2 Experience
-version=v2.3
-versionCode=13
+version=v3.0
+versionCode=14
 author=Joey Huab
-description=Ports Pixel 2 exclusive features; includes Rootless Pixel 2 Launcher, Pixel theme accent, Pixel audio files; enables Google Sans font in Settings app, Google Assistant, Google Lens on Photos app, Camera2 API and EIS support (varies per device)
-minMagisk=1500
+description=Ports Pixel 2 exclusive features; includes Rootless Pixel 2 Launcher and Ruthless Pixel Launcher (ability to choose between launchers), Pixel theme accent, Pixel audio files; enables Google Sans font in Settings app, Google Assistant, Google Lens on Photos app, Camera2 API and EIS support (varies per device)
+support=https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/
+donate=https://github.com/joeyhuab/Pixel-2-Experience-Magisk
+minMagisk=1530
