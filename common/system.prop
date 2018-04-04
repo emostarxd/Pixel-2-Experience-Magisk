@@ -2,6 +2,7 @@
 # Example: Change dpi
 # ro.sf.lcd_density=320
 persist.camera.HAL3.enabled=1
+persist.camera.eis.enable=1
 ro.opa.eligible_device=true
 ro.config.ringtone=The_big_adventure.ogg
 ro.config.notification_sound=Popcorn.ogg
